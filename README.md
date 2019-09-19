@@ -5,3 +5,5 @@
 使用站可以提供至：https://github.com/jyeric/acg-pictures/issues/2
 
 镜像站可以提供至：https://github.com/jyeric/acg-pictures/issues/1
+
+使用方法：下载整个项目（必须下载pic.txt和random.php两个文件，否则无法正常运行）
