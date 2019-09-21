@@ -8,7 +8,7 @@ $size = !empty($_GET['size']) ? $_GET['size'] : 'large' ;
 if(!in_array($size, $size_arr)){
     $size = 'large';
 }
-$url = 'https://raw.githubusercontent.com/jyeric/acg-pictures/master/1.jpg'.$size.'/'.$sina_img;
+$url = 'https://raw.githubusercontent.com/jyeric/acg-pictures/master/'.$sina_img;
 //解析结果
 $result=array("code"=>"200","imgurl"=>"$url");
  
